@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-This repository includes various projects related to data science that I have worked with. I plan to inclue the repository with the following types of projects:
+This repository includes various projects related to data science that I have worked with. I plan to include the repository with the following types of projects:
 
 * Data Cleaning Project - shows how to take multiple messy data sets, clean them up, combine them and use them to perform analysis. 
 
