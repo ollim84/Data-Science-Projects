@@ -9,3 +9,5 @@ This repository includes various projects related to data science that I have wo
 * Data Visualization Project - shows how to communicate data visually using appropriate plots and charts.
 
 * Machine Learning Project - shows how to effectively build a model that makes accurate predictions with data 
+
+The projects shall be implemented in Python and in Jupyter Notebook.
